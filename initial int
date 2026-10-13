@@ -1,0 +1,42 @@
+egration<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+
+<body>
+
+   
+<h1>My own web page</h1>
+<h2>My own web page</h2>
+<h3>My own web page</h3>
+<h4>My own web page</h4>
+<h5>My own web page</h5>
+<h6>My own web page</h6>
+
+
+    <p>
+        I am a B.Tech CSE student. I enjoy learning new technologies,
+        programming, and spending time with my friends.
+    </p>
+
+    <h2>My Daily Activities</h2>
+
+    <ol>
+        <li>Wake up early</li>
+        <li>Attend college</li>
+        <li>Study programming</li>
+        <li>Complete assignments</li>
+    </ol>
+
+    <h2>My Favourite Subjects</h2>
+
+    <ul>
+        <li>Web Technology</li>
+        <li>Python</li>
+        <li>Operating Systems</li>
+        <li>Database Management System</li>
+    </ul>
+
+</body>
+</html>
